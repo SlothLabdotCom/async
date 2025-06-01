@@ -1,13 +1,19 @@
 {
-    "name": "spatie/async",
+    "name": "slothlabdotcom/async",
     "description": "Asynchronous and parallel PHP with the PCNTL extension",
     "keywords": [
         "spatie",
         "async"
     ],
-    "homepage": "https://github.com/spatie/async",
+    "homepage": "https://github.com/SlothLabdotCom/async",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Sloth-Lab",
+            "email": "contact@sloth-lab.com",
+            "homepage": "https://sloth-lab.com",
+            "role": "Maintainer"
+        },
         {
             "name": "Brent Roose",
             "email": "brent@spatie.be",
